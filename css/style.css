@@ -134,7 +134,55 @@ align-items: center;
   background-size: cover;
   background-position: center;
   position: relative;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+
+}
+
+.content-04-reg{
+  font-size: 24px;
+  font-weight: 200;
+}
+.content-04-bold{
+  font-size: 32px;
+  font-weight: 400;
+  display: inline-block;
+}
+.main-pic-05{
+  position: absolute;
+  top: 20%;
+  left: 15%;
+}
+.logo-white-large{
+  z-index: 99;
+  position: absolute;
+  top: 10%;
+  left: 35%;
+}
+.content-04-1{
+  z-index: 99;
+  position: absolute;
+  color: #fff;
+  top: 25%;
+  right: 5%;
+}
+.content-04-2{
+  z-index: 99;
+  position: absolute;
+  color: #fff;
+  top: 35%;
+  left: 10%;
+}
+
+.content-04-3{
+  z-index: 99;
+  position: absolute;
+  color: #fff;
+  top: 70%;
+  left: 10%;
+}
+.content-04-4{
+  z-index: 99;
+  position: absolute;
+  color: #fff;
+  top: 70%;
+  right: 10%;
 }
